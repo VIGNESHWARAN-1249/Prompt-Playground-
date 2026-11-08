@@ -194,9 +194,6 @@ Required structure:
   "amount": "number or null"
 }
 
-Text:
-[INSERT INPUT HERE]
-
 Test Cases
 
 Test 1
